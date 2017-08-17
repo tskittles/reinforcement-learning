@@ -7,8 +7,9 @@
 - Understand Value Functions, Action-Value Functions, and Policy Functions
 - Understand the Bellman Equations and Bellman Optimality Equations for value functions and action-value functions
 
-
+##another change
 ### Summary
+##anopther change
 
 - Agent & Environment Interface: At each step `t` the agent receives a state `S_t`, performs an action `A_t` and receives a reward `R_{t+1}`. The action is chosen according to a policy function `pi`.
 - The total return `G_t` is the sum of all rewards starting from time t . Future rewards are discounted at a discount rate `gamma^k`.
